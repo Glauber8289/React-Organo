@@ -1,13 +1,17 @@
 
 import Banner from './componentes/Banner/Banner.js';
-import CampoTexto from './componentes/Campotexto.js';
+import Botao from './componentes/Botão/index.js';
+import Formulario from './componentes/Formulario/index.js';
+
+
 
 
 function App() {
   return (
     <div className="App">
       <Banner/>
-     <CampoTexto/>
+      <Formulario/>
+      
     </div>
   );
 }
