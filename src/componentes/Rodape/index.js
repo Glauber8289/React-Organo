@@ -3,12 +3,12 @@ function Rodape(){
 return(
    <footer className="rodape">
       <div className='redessociais'>
-      <img src="/imagens/fb.png" alt="Icone Facebook" />
-      <img src="/imagens/tw.png" alt="Icone Twiter" />
-      <img src="/imagens/ig.png" alt="Icone Camera" />
+      <img src="/Imagens/fb.png" alt="Icone Facebook" />
+      <img src="/Imagens/tw.png" alt="Icone Twiter" />
+      <img src="/Imagens/ig.png" alt="Icone Camera" />
       </div>
       <div className="organo">
-      <img src="/imagens/logo.png" alt="Logo Organo" />
+      <img src="/Imagens/logo.png" alt="Logo Organo" />
       </div>
    </footer>
 )
